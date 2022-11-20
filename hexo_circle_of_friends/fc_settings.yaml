@@ -48,6 +48,12 @@ SETTINGS_FRIENDS_LINKS: {
         ["XIAOMING'S BLOG", "https://vimin.cc/", "https://pic.vimin.cc/logo.png"],
         ["Ne-21", "https://blog.gocos.cn/", "https://blog.gocos.cn/wp-content/uploads/2021/07/2021-07-2785-e1627384782533.png"],
         ["梦念逍遥", "https://lwtxiaoyao.top/", "https://unpkg.com/mengnianxiaoyao-imges/blog/icon.png"],
+        ["Xianqi", "https://ze520.cn/", "https://thirdqq.qlogo.cn/g?b=sdk&nk=2287853439&s=140"],
+        ["一百个Chocolate", "https://yangchaoyi.vip/", "https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png"],
+        ["HCLonely", "https://blog.hclonely.com/", "https://raw.githubusercontent.com/HCLonely/blog.hclonely.com/1.2.2/img/avatar.jpg"],
+        ["火喵博客･日记", "https://cat.dorcandy.cn/", "https://cat.dorcandy.cn/logo"],
+        ["PrinceCheng", "http://www.prchen.com/", "http://www.prchen.com/images/icons8-grandpa-80.png"],
+        ["过客～励む", "https://yafine-blog.cn/", "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/404/friend_404.gif"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
