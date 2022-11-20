@@ -1,18 +1,16 @@
-<!-- 友链朋友圈样式 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/fcircle-lmm.css">
-
-<!-- 全局引入友链朋友圈配置项 -->
-<script type="text/javascript">
-var fdata = {
-    apiurl: 'https://wyblog.eu.org',
-    initnumber: 20, //【可选】页面初始化展示文章数量
-    stepnumber: 10,//【可选】每次加载增加的篇数
-    error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c' //【可选】头像加载失败时默认显示的头像
-}
+<div id="hexo-circle-of-friends-root"></div>
+<script>
+    let UserConfig = {
+        // 填写你的api地址
+        private_api_url: 'https://wyblog.eu.org/',
+        // 点击加载更多时，一次最多加载几篇文章，默认10
+        page_turning_number: 5,
+        // 头像加载失败时，默认头像地址
+        error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c',
+        // 进入页面时第一次的排序规则
+        sort_rule: 'created'
+    }
 </script>
 
-<!-- 友链朋友圈JS -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fcircle-lmm.js"></script>
-
-<!-- 挂载友链朋友圈的容器 -->
-<div id="fcircleContainer">与主机通讯中……</div>
+<script type="text/javascript" src="https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.5/dist/app.min.js"></script>
+<script type="text/javascript" src="https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.5/dist/bundle.js"></script>
