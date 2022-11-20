@@ -34,7 +34,10 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
+        ["MaxBill の博客", "https://www.maxbill.cn/", "https://cdn.maxbill.cn/blog/img/avatar.png"],
+        ["GamerNoTitle", "https://bili33.top/", "https://gamernotitle.coding.net/p/assets/d/assets/git/raw/master/AboutMe/logo-mini.png"],
+        ["Orange", "https://noionion.top/", "https://www.kai666666.com/images/avatar.png"],
+        ["Akilarの糖果屋", "https://www.kai666666.com/", "https://www.kai666666.com/images/avatar.png"],
         ["conge", "https://conge.github.io/", "https://conge.github.io/favicon.ico?"],
         ["Luminous' Home", "https://luotianyi.vc/", "https://cdn.luotianyi.vc/wp-content/uploads/2020-02-13_09-22-57.jpg"],
         ["Xhofe's Blog", "https://nn.ci/", "https://nn.ci/images/avatar.png"],
