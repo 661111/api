@@ -47,7 +47,9 @@ SETTINGS_FRIENDS_LINKS: {
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
         ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
-        ["wyblog", "https://661111.github.io/", "https://661111.github.io/images/headimage.png", "atom.xml"],
+        ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
+        ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
+        ["wyblog", "https://661111.github.io/", "https://661111.github.io/media/images/custom-headerLogo.ico", "atom.xml"],
     ]
 }
 
@@ -64,7 +66,7 @@ GITEE_FRIENDS_LINKS: {
 # get links from github
 # 从github issue中获取友链
 GITHUB_FRIENDS_LINKS: {
-    enable: ture, # true 开启github issue兼容
+    enable: false, # true 开启github issue兼容
     type: "normal",  # volantis/stellar用户请在这里填写volantis
     owner: "661111",  # 填写你的github用户名
     repo: "661111.github.io",  # 填写你的github仓库名
