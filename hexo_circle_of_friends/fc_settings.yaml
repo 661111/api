@@ -42,6 +42,9 @@ SETTINGS_FRIENDS_LINKS: {
         ["小冰博客", "https://zfe.space/", "https://zfe.space/images/headimage.png"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://cdn.jsdelivr.net/gh/hiltay/imgcdn/img/202111191951780.JPG"],
         ["Heo", "https://blog.zhheo.com/", "https://blog.zhheo.com/img/avatar.png"],
+        ["An_wen", "https://blog.zytllt.cn//", "https://you.zytllt.cn/logo/t-anwen.png"],
+        ["一楼没太阳", "https://ylmty.cc/", "https://www.ylmty.cc/usr/uploads/2022/10/1533468272.png"],
+        ["Zkeq", "https://icodeq.com/", "https://img.onmicrosoft.cn/Avatar.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
