@@ -33,7 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        ["无影博客", "https://661111.github.io/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         ["MaxBill の博客", "https://www.maxbill.cn/", "https://cdn.maxbill.cn/blog/img/avatar.png"],
         ["GamerNoTitle", "https://bili33.top/", "https://gamernotitle.coding.net/p/assets/d/assets/git/raw/master/AboutMe/logo-mini.png"],
         ["Orange", "https://noionion.top/", "https://www.kai666666.com/images/avatar.png"],
@@ -58,6 +58,8 @@ SETTINGS_FRIENDS_LINKS: {
         ["PrinceCheng", "http://www.prchen.com/", "http://www.prchen.com/images/icons8-grandpa-80.png"],
         ["过客～励む", "https://yafine-blog.cn/", "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/404/friend_404.gif"],
         ["松鼠小", "https://www.jishusongshu.com/", "https://www.jishusongshu.com/img/site-logo-jsss.png"],
+        ["PiCpo", "http://picpo.top", "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"],
+        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -92,8 +94,8 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://example.com/, # 屏蔽 https://example.com/
-#    .*\.com,  # 含有.com的全部屏蔽
+#    https://example.com/, # 屏蔽 https://example.commmmmm/
+#    .*\.commmmmm,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
 ]
 
