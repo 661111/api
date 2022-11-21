@@ -51,7 +51,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["XIAOMING'S BLOG", "https://vimin.cc/", "https://pic.vimin.cc/logo.png"],
         ["Ne-21", "https://blog.gocos.cn/", "https://blog.gocos.cn/wp-content/uploads/2021/07/2021-07-2785-e1627384782533.png"],
         ["梦念逍遥", "https://lwtxiaoyao.top/", "https://unpkg.com/mengnianxiaoyao-imges/blog/icon.png"],
-        ["Xianqi", "https://ze520.cn/", "https://thirdqq.qlogo.cn/g?b=sdk&nk=2287853439&s=140"],
         ["一百个Chocolate", "https://yangchaoyi.vip/", "https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png"],
         ["HCLonely", "https://blog.hclonely.com/", "https://raw.githubusercontent.com/HCLonely/blog.hclonely.com/1.2.2/img/avatar.jpg"],
         ["火喵博客･日记", "https://cat.dorcandy.cn/", "https://cat.dorcandy.cn/logo"],
@@ -61,8 +60,10 @@ SETTINGS_FRIENDS_LINKS: {
         ["PiCpo", "http://picpo.top", "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"],
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         ["南轩･日记", "https://blog.nanxzy.cn/", "https://cat.dorcandy.cn/usr/themes/MyDiary/api/favicon/get.php?url=https://blog.nanxzy.cn/"],
-        ["文极导航", "https://www.wenj.net/", "https://www.wenj.net/wp-content/uploads/2022/06/300%C3%9780-2.png"],
         ["南轩博客", "https://blog.wenj.net", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
+        ["KDMY", "https://kdmy.xyz/", "https://s.p.qq.com/pub/get_face?img_type=3&uin=2064922393"],
+        ["PiCpoの動物園(=・ω・=) |", "https://picpo.github.io/", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
+        ["小鹿生活日志", "https://www.t223.top/", "https://img.t223.top/upload/%E6%9E%AD%E5%85%BD1.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -70,7 +71,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
         ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
-        ["无影的博客", "https://661111.github.io/", "https://661111.github.io/media/images/custom-headerLogo.ico", "atom.xml"],
     ]
 }
 
