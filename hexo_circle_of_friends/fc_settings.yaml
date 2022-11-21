@@ -33,7 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["无影博客", "https://661111.github.io/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        ["Yunfeng's Simple Blog", "https://vra.github.io/", "https://vra.github.io/images/logo.svg"],
         ["MaxBill の博客", "https://www.maxbill.cn/", "https://cdn.maxbill.cn/blog/img/avatar.png"],
         ["GamerNoTitle", "https://bili33.top/", "https://gamernotitle.coding.net/p/assets/d/assets/git/raw/master/AboutMe/logo-mini.png"],
         ["Orange", "https://noionion.top/", "https://www.kai666666.com/images/avatar.png"],
