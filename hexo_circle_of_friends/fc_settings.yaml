@@ -61,7 +61,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["PiCpo", "http://picpo.top", "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"],
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         ["南轩･日记", "https://blog.nanxzy.cn/", "https://cat.dorcandy.cn/usr/themes/MyDiary/api/favicon/get.php?url=https://blog.nanxzy.cn/"],
-        ["文极导航", "https://www.wenj.net/blog", "https://www.wenj.net/wp-content/uploads/2022/06/300%C3%9780-2.png"],
+        ["文极导航", "https://www.wenj.net/", "https://www.wenj.net/wp-content/uploads/2022/06/300%C3%9780-2.png"],
         ["南轩博客", "https://blog.wenj.net", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
