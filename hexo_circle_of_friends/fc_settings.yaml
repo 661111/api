@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-    - {link: "https://661111.github.io/friends", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
+    - {link: "https://661111.github.io/friends/", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -60,10 +60,12 @@ SETTINGS_FRIENDS_LINKS: {
         ["PiCpo", "http://picpo.top", "https://q1.qlogo.cn/g?b=qq&s=640&nk=2587188250"],
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         ["南轩･日记", "https://blog.nanxzy.cn/", "https://cat.dorcandy.cn/usr/themes/MyDiary/api/favicon/get.php?url=https://blog.nanxzy.cn/"],
-        ["南轩博客", "https://blog.wenj.net", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
+        ["南轩博客", "https://blog.wenj.net/", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
         ["KDMY", "https://kdmy.xyz/", "https://s.p.qq.com/pub/get_face?img_type=3&uin=2064922393"],
-        ["PiCpoの動物園(=・ω・=) |", "https://picpo.github.io/", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
+        ["木木木木木", "https://immmmm.com/", "https://immmmm.com/favicon.ico"],
         ["小鹿生活日志", "https://www.t223.top/", "https://img.t223.top/upload/%E6%9E%AD%E5%85%BD1.jpg"],
+        ["Zsedczy", "https://blog.imzy.ink/", "https://cravatar.cn/avatar/7a5b615c3a4fae10cc2dd518b503ef2d?s=256&d=identicon&r=g"],
+        ["xian's blog", "https://xians.me/", "https://xians.me/img/avatar/avatar1.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
