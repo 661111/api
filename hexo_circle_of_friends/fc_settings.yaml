@@ -150,6 +150,10 @@ SETTINGS_FRIENDS_LINKS: {
         ["苏晓晴", "https://www.toubiec.cn/", "https://q2.qlogo.cn/headimg_dl?dst_uin=3074193836&spec=100"],
         ["不凡博客", "https://bufanz.com/", "https://bufanz.com/zb_users/theme//sanblog/images/logo.png"],
         ["木木博客", "https://whbblog.cn/", "https://www.whbblog.cn/ico/logo_share.png"],
+        ["开心UcU", "https://www.ucu520.top/", "https://www.ucu520.top/logo-108-108.png"],
+        ["路羽博客", "https://www.luyuz.cn/", "https://www.luyuz.cn/content/templates/luyu_fee/static/img/logo.png"],
+        ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
+        ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -159,8 +163,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
-        ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
-        ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
     ]
 }
 
