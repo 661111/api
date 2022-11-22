@@ -128,17 +128,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["Fomalhaut🥝", "https://www.fomal.cc/", "https://www.fomal.cc/assets/head.jpg"],
         ["Jayhrn", "https://blog.jayhrn.com/", "https://cdn.jsdelivr.net/gh/Jayhrn/CDN/img/avatar.png"],
         ["探人间", "https://www.hydsb0.com/", "https://thirdqq.qlogo.cn/g?b=sdk&k=ibcnwTM19tfgvy8PRNHRkWw&s=140&t=1661063786"],
-        # 示例2：使用suffix的配置如下
-        # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
-        # 如果目标地址的后缀不在其中，就可以在这里添加
-        # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
-        ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
-        ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
-        ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
-        ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
-        ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
-        ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
         ["Hexo", "https://hexo.io/zh-cn/index.html/", "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg"],
         ["御网尚书", "https://www.siteweb.cn/", "https://img.dorakika.cn/avatar/hack-gov.cn.webp"],
         ["黑石博客", "https://www.heson10.com/", "https://img.dorakika.cn/avatar/heson10.com.webp"],
@@ -151,6 +140,17 @@ SETTINGS_FRIENDS_LINKS: {
         ["MrZeFr", "https://blog.mrzefr.cn/", "https://img.dorakika.cn/avatar/blog.mrzefr.cn.webp"],
         ["Ethan.Tzy", "https://tzy1997.com/", "https://img.dorakika.cn/avatar/tzy1997.com.webp"],
         ["LYX", "https://yisous.xyz/", "https://img.dorakika.cn/avatar/yisous.xyz.webp"],
+        # 示例2：使用suffix的配置如下
+        # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
+        # 如果目标地址的后缀不在其中，就可以在这里添加
+        # 比如 https://elizen.me/hello.xml ，填写：
+        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
+        ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
+        ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
+        ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
+        ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
+        ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
+        ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
     ]
 }
 
