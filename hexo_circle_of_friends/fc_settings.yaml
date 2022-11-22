@@ -154,6 +154,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["路羽博客", "https://www.luyuz.cn/", "https://www.luyuz.cn/content/templates/luyu_fee/static/img/logo.png"],
         ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
         ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
+        ["无影博客", "https://wyblog1.eu.org/", "https://wyblog1.eu.org/media/images/custom-headerLogo.ico"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
