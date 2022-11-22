@@ -137,6 +137,20 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
+        ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
+        ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
+        ["Hexo", "https://hexo.io/zh-cn/index.html/", "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg"],
+        ["御网尚书", "https://www.siteweb.cn/", "https://img.dorakika.cn/avatar/hack-gov.cn.webp"],
+        ["黑石博客", "https://www.heson10.com/", "https://img.dorakika.cn/avatar/heson10.com.webp"],
+        ["欢乐小王", "https://happyking.top/", "https://img.dorakika.cn/avatar/happyking.top.webp"],
+        ["韩小韩", "https://www.vvhan.com/", "https://img.dorakika.cn/avatar/vvhan.com.webp"],
+        ["UtopiaXC", "https://blog.utopiaxc.cn/", "https://img.dorakika.cn/avatar/utopiaxc.cn.webp"],
+        ["风渐远", "https://www.naraku.cn/", "https://img.dorakika.cn/avatar/naraku.cn.webp"],
+        ["Leonus", "https://blog.leonus.cn/", "https://img.dorakika.cn/avatar/leonus.cn.webp"],
+        ["不予", "https://www.shibuyu.fun/", "https://img.dorakika.cn/avatar/shibuyu.fun.webp"],
+        ["MrZeFr", "https://blog.mrzefr.cn/", "https://img.dorakika.cn/avatar/blog.mrzefr.cn.webp"],
+        ["Ethan.Tzy", "https://tzy1997.com/", "https://img.dorakika.cn/avatar/tzy1997.com.webp"],
+        ["LYX", "https://yisous.xyz/", "https://img.dorakika.cn/avatar/yisous.xyz.webp"],
     ]
 }
 
