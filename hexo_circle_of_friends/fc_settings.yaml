@@ -145,6 +145,8 @@ SETTINGS_FRIENDS_LINKS: {
         ["廿壴博客", "https://blog.ganxb2.com/", "https://blog.ganxb2.com/img/apple-touch-icon.png"],
         ["lovestu", "https://www.lovestu.com/", "https://www.lovestu.com/wp-content/uploads/2021/12/stulogo.png"],
         ["孟坤博客", "https://mkblog.cn/", "https://tva1.sinaimg.cn/large/a15b4afegy1fn6votd165j2036036glk.jpg"],
+        ["Altria", "https://topzhang.cn/", "https://topzhang.cn/usr/assets/img/saber-header.jpg"],
+        ["solstice23", "https://solstice23.top/", "https://solstice23.top/wp-content/uploads/2020/03/cropped-solstice23icon-32x32.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -178,12 +180,6 @@ GITHUB_FRIENDS_LINKS: {
     repo: "661111.github.io",  # 填写你的github仓库名
     state: "open",  # 填写抓取的issue状态(open/closed)
 }
-
-# block site list
-# 添加屏蔽站点，支持正则表达式
-BLOCK_SITE: [
-#    https://网易博客.repliy.cmn/, # 屏蔽 https://example.commmmmm/
-]
 
 
 # 启用HTTP代理，此项设为true，并且需要添加一个环境变量，名称为PROXY，值为[IP]:[端口]，比如：192.168.1.106:8080
