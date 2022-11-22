@@ -108,6 +108,18 @@ SETTINGS_FRIENDS_LINKS: {
         ["墨初博客", "https://mochu.co", "https://img.cdn.nesxc.com/2022/02/202202140355129webp"],
         ["天昕", "https://sutianxin.top", "https://img.cdn.nesxc.com/2022/02/202202052136493webp"],
         ["小嘉的部落格", "https://blog.imzjw.cn", "https://img.cdn.nesxc.com/2022/02/202202052131354webp"],
+        ["Android", "https://android99.me", "https://img.cdn.nesxc.com/2022/02/202202052128963webp"],
+        ["Dragon犬’s blog", "https://blog.furrysp.top", "https://img.cdn.nesxc.com/2022/02/202202052148062webp"],
+        ["星环博客", "https://www.xhto.cn/", "https://pan.xhto.cn/d/starorder/icon/xinghuan_png_white.png?sign=aac101c3fddd4081"],
+        ["Mua~", "https://mua.ooo/", "https://mua.ooo/Mua.OoO.jpg"],
+        ["Autjuly", "https://kitel.top/", "https://cdn.kitel.top/img/202211040935099.jpg"],
+        ["心流", "https://blog.panghai.top/", "https://blog.panghai.top/img/avatar.png"],
+        ["Xlenco", "https://xlenco.github.io/", "https://xlenco.eu.org/img/head.webp"],
+        ["点儿博客", "https://dianr.cn/", "http://dianr.cn/img/Y.png"],
+        ["胡家小子", "https://www.boyhu.cn/", "https://p.boyhu.cn/assets/img/up.jpg"],
+        ["南轩･日记", "https://blog.nanxzy.cn/", "https://cat.dorcandy.cn/usr/themes/MyDiary/api/favicon/get.php?url=https://blog.nanxzy.cn/"],
+        ["南轩博客", "https://blog.wenj.net/", "https://dd-static.jd.com/ddimg/jfs/t1/188548/8/25647/3344/62a607b4E3ca1a585/fb5d0f823aface8e.png"],
+
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
