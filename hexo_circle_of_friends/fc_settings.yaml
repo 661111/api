@@ -79,6 +79,8 @@ SETTINGS_FRIENDS_LINKS: {
         ["Xlenco", "https://xlenco.github.io/", "https://xlenco.eu.org/img/head.webp"],
         ["点儿博客", "https://dianr.cn/", "http://dianr.cn/img/Y.png"],
         ["胡家小子", "https://www.boyhu.cn/", "https://p.boyhu.cn/assets/img/up.jpg"],
+        ["神代綺凛", "https://moe.best/", "https://moe.best/usr/img/avatar1.png"],
+        ["西行寺幽幽子", "https://www.7b3.org/", "https://s1.ax1x.com/2020/08/27/dfo7D0.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
