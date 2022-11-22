@@ -140,6 +140,11 @@ SETTINGS_FRIENDS_LINKS: {
         ["MrZeFr", "https://blog.mrzefr.cn/", "https://img.dorakika.cn/avatar/blog.mrzefr.cn.webp"],
         ["Ethan.Tzy", "https://tzy1997.com/", "https://img.dorakika.cn/avatar/tzy1997.com.webp"],
         ["LYX", "https://yisous.xyz/", "https://img.dorakika.cn/avatar/yisous.xyz.webp"],
+        ["技术松鼠", "https://www.jishusongshu.com/", "https://www.jishusongshu.com/img/site-logo-jsss.png"],
+        ["jayhrn", "https://blog.jayhrn.com/", "https://blog.jayhrn.com/img/favicon.png"],
+        ["廿壴博客", "https://blog.ganxb2.com/", "https://blog.ganxb2.com/img/apple-touch-icon.png"],
+        ["lovestu", "https://www.lovestu.com/", "https://www.lovestu.com/wp-content/uploads/2021/12/stulogo.png"],
+        ["孟坤博客", "https://mkblog.cn/", "https://tva1.sinaimg.cn/large/a15b4afegy1fn6votd165j2036036glk.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -177,9 +182,7 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://example.com/, # 屏蔽 https://example.commmmmm/
-#    .*\.mcsever,  # 含有.com的全部屏蔽
-#    ^mcsever://,  # http开头的全部屏蔽
+#    https://网易博客.repliy.cmn/, # 屏蔽 https://example.commmmmm/
 ]
 
 
