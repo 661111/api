@@ -185,7 +185,7 @@ GITHUB_FRIENDS_LINKS: {
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
 #    https://example.com/, # 屏蔽 https://example.com/
-#    .*\.com.com.com,  # 含有.com的全部屏蔽
+#    .*\.chklp,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
 ]
 
