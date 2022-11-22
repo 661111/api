@@ -127,7 +127,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png"],
         ["Fomalhaut🥝", "https://www.fomal.cc/", "https://www.fomal.cc/assets/head.jpg"],
         ["Jayhrn", "https://blog.jayhrn.com/", "https://cdn.jsdelivr.net/gh/Jayhrn/CDN/img/avatar.png"],
-        ["探人间", "https://www.hydsb0.com/", "https://thirdqq.qlogo.cn/g?b=sdk&k=ibcnwTM19tfgvy8PRNHRkWw&s=140&t=1661063786"]
+        ["探人间", "https://www.hydsb0.com/", "https://thirdqq.qlogo.cn/g?b=sdk&k=ibcnwTM19tfgvy8PRNHRkWw&s=140&t=1661063786"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
