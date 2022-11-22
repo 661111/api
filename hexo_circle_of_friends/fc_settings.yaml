@@ -81,6 +81,8 @@ SETTINGS_FRIENDS_LINKS: {
         ["胡家小子", "https://www.boyhu.cn/", "https://p.boyhu.cn/assets/img/up.jpg"],
         ["神代綺凛", "https://moe.best/", "https://moe.best/usr/img/avatar1.png"],
         ["西行寺幽幽子", "https://www.7b3.org/", "https://s1.ax1x.com/2020/08/27/dfo7D0.png"],
+        ["星环博客", "https://www.xhto.cn/", "https://pan.xhto.cn/d/starorder/icon/xinghuan_png_white.png?sign=aac101c3fddd4081"],
+        ["Mua~", "https://mua.ooo/", "https://mua.ooo/Mua.OoO.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -88,7 +90,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
         ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
-        ["wyblog", "https://661111.github.io/", "https://661111.github.io/media/images/custom-headerLogo.ico", "atom.xml"],
+        ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
     ]
 }
 
