@@ -185,7 +185,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["LanYunのBlog", "https://lanyundev.vercel.app/", "https://lanyundev.vercel.app/img/logo2.jpg"],
         ["iYuan's Blog", "https://o0.work/", "https://npm.elemecdn.com/iyuancdn@latest/img/avatar.jpg"],
         ["星空下的YZY", "https://226yzy.com/", "https://s4.ax1x.com/2021/12/11/oTDujJ.jpg"],
-        ["Hajeekn's Blog", "https://blog.slqwq.cn/", "https://npm.elemecdn.com/perorepe-cdn@1.0.0/v1/static-files/avatar.webp],
+        ["Hajeekn's Blog", "https://blog.slqwq.cn/", "https://npm.elemecdn.com/perorepe-cdn@1.0.0/v1/static-files/avatar.webp"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
