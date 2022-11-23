@@ -233,7 +233,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Beyond the Void", "https://byvoid.com/zhs/", "https://besticon-demo.herokuapp.com/icon?url=https://byvoid.com/zhs/&size=80..120..200"],
         ["AiDai", "https://aidaip.github.io/", "https://besticon-demo.herokuapp.com/icon?url=https://aidaip.github.io/&size=80..120..200"],
         ["Blog of Music", "https://www.blogofmusic.com", "https://besticon-demo.herokuapp.com/icon?url=https://www.blogofmusic.com&size=80..120..200"],
-        {"name":"醉喵の小屋","link":"https://www.zuimiao33.cn/", "https://image.anzhiy.cn/adminuploads/1/2022/11/20/6379b8c9a973f.webp"],
+        {"醉喵の小屋", "link":"https://www.zuimiao33.cn/", "https://image.anzhiy.cn/adminuploads/1/2022/11/20/6379b8c9a973f.webp"],
         ["Sam","link":"https://www.welucky.top/", "https://image.anzhiy.cn/adminuploads/1/2022/11/20/637990a293baf.webp"],
         ["HiPeach","link":"https://hipeach.eu.org/", "https://image.anzhiy.cn/adminuploads/1/2022/11/20/637990a28fa47.png"],
         ["张时贰","link":"https://zhangshier.vip/", "https://image.anzhiy.cn/adminuploads/1/2022/11/12/636ef2c1632a5.webp"],
