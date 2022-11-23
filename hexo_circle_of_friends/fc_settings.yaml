@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-    - {link: "https://wyblog1.eu.org/friends/", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
+    - {link: "https://661111.github.io/friends/", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -154,7 +154,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["路羽博客", "https://www.luyuz.cn/", "https://www.luyuz.cn/content/templates/luyu_fee/static/img/logo.png"],
         ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
         ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
-        ["无影博客", "https://wyblog1.eu.org/", "https://wyblog1.eu.org/media/images/custom-headerLogo.ico"],
+        ["无影博客", "https://661111.github.io/", "https://wyblog1.eu.org/media/images/custom-headerLogo.ico"],
         ["汀彵汐", "https://blog.izznan.cn/", "https://q2.qlogo.cn/headimg_dl?dst_uin=2461306899&spec=100"],
         ["未央童话镇", "https://forever97.top/", "https://forever97-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/avatar.png"],
         ["cizixs", "https://cizixs.com/", "https://cdn.jsdelivr.net/npm/imgscdn/img/202111192055113.jpg"],
