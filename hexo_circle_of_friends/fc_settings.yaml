@@ -270,11 +270,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["上帝的笑", "kevinknow.cn", "https://avatars.githubusercontent.com/u/60191124?v=4"], 
         ["itsNeko", "https://dyfa.top", "https://nekodeng.gitee.io/medias/avatar.jpg"], 
         ["宿雾", "https://www.panoshu.top", "https://cdn.jsdelivr.net/gh/panoshu/blog-cdn/site/avatar/avatar.webp"],
-        ["L1nSn0w’s Blog", "url": "https://blog.linsnow.cn/",  "https://blog.linsnow.cn/img/avatar_huc4ee539f708b3764d0a4718d2170118a_9562_300x0_resize_box_3.png"],
-        ["Steve", "url": "https://shujin.fun/",  "https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210629/IMG_0411_Original.6hkcl4qltks0.jpeg"],
-        ["Hassan's Blog", "url": "https://hassanwong.top",  "https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210404/img/avatar_blog.jpg",],
-        ["Boii", "url": "https://www.boii.xyz",  "https://cdn.jsdelivr.net/gh/TCP404/HEXO-CDN/images/icon/bolgger.png"], 
-        ["雨中的博客", "https://blog.coolchong.cn/", "https://langwenchong.gitee.io/figure-bed/%E5%AE%87%E8%88%AA%E5%91%98.SVG.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
