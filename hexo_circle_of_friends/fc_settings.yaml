@@ -263,6 +263,9 @@ SETTINGS_FRIENDS_LINKS: {
         ["半方池水半方田", "https://www.uuanqin.top/", "https://typora-1301301520.cos.ap-nanjing.myqcloud.com/img/A全彩无字.png"],
         ["ZestJourney", "https://www.zestaken.top/", "https://www.zestaken.top/images/avatar.jpg"],
         ["ImCaO's Blog", "https://www.imcao.cn/", "https://www.imcao.cn/avatar.png"],
+        ["晨讯博客", "https://zsuh.cc/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
+        ["NA博客", "https://www.newadmin.cn", "https://cravatar.cn/avatar/cd0db5f12440501a64ea8ff399a6fa18?s=48&d=wavatar&r=g"],
+        ["麦瑞克博客", "https://oi.saiodgm.gq/", "https://www.unitymake.com/storage/2022/07/logo_165x50_slice.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
