@@ -30,7 +30,7 @@ LINK:
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: ture,
-    json_api: "https://raw.githubusercontent.com/xaoxuu/friends-rss-generator/output/data.json",
+    json_api: "",
     list: [
         # 示例1：
         ["Saiodgm の 博客儿", "https://oi.saiodgm.gq/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
