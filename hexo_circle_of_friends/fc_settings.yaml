@@ -309,6 +309,16 @@ SETTINGS_FRIENDS_LINKS: {
         ["鹿啵包の小窝", "https://pochacco.top/", "https://cdn.panghai.top/img/links/pochacco.top/avatar.png"],
         ["是非题", "https://www.shifeiti.com/", "https://cdn.panghai.top/img/links/www.shifeiti.com/avatar.png"],
         ["墨言笙歌", "https://gxjblog.com/", "https://cdn.panghai.top/img/links/gxjblog.com/avatar.png"],
+        ["锦瑟的糖果屋","https://www.ijinse.cn/", "https://s2.loli.net/2022/05/26/45ItgiRDHfJcEML.png"],
+        ["QYstudio", "https://qystu.cc/", "https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b"],
+        ["Milank", "https://milank.cn/", "https://img.milank.cn/img/0307.jpg"],
+        ["低熵体", "https://blog.falling42.top/", "https://npm.elemecdn.com/falling42-cdn@2.0.0/avatar.png"],
+        ["Sady", "https://sady0.com/", "https://cdn.ideaopen.cn/xiaojun/gzRMsL4X.jpg"],
+        ["LI SIR", "https://blog.lisir.me/", "https://npm.elemecdn.com/wkwbk-img@1.0.1/imgs/avatar.png"],
+        ["二次元", "https://cbbkk.com/", "https://cbbkk.com/wp-content/uploads/ttx.png"],
+        ["Sianx", "https://sianx.com/", "https://cdn1.tianli0.top/npm/picture-sianx@1.0.0/Blog/logo.png"],
+        ["梦境学习站", "https://blog.godgy.xyz/", "https://dreamwld.top/images/avatar1.png"],
+        ["无妄当自持", "https://www.insidentally.com/", "https://www.insidentally.com/images/icon/avatar.svg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
