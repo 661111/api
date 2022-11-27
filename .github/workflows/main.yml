@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0,1,2,6,10,11,12,18,21,24 * * *"
+    - cron: "0 0,6,12,18,21, * * *"
   workflow_dispatch:
 
 env:
