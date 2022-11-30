@@ -19,7 +19,6 @@ LINK:
      - {link: "https://nn.ci/links", theme: "common1"}
      - {link: "https://noionion.top/link/", theme: "butterfly"}
      - {link: "https://blog.zhheo.com/link", theme: "butterfly"}
-     - {link: "https://262259.xyz/link/", theme: "butterfly"}
      - {link: "https://wyblog1.github.io/friends/", theme: "common1"}
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
@@ -354,6 +353,11 @@ SETTINGS_FRIENDS_LINKS: {
         ["葱苓", "https://itciraos.cn/", "https://itciraos.cn/assets/avatar.webp"],
         ["陶小桃Blog", "https://www.52txr.cn", "https://s1.ax1x.com/2022/04/16/LYuWVA.png"],
         ["Cortana", "https://bbc.zendee.cn/", "https://s3.bmp.ovh/imgs/2022/03/8dd4ff82c436b482.png"],
+        ["Nuyoah", "https://262259.xyz/", "https://s1.ax1x.com/2022/11/27/zUFla6.png"],
+        ["极光", "https://zhaowenjie30.github.io/", "https://img-blog.csdnimg.cn/20210313122054101.png"],
+        ["鲸落", "https://xiaojunnanya.github.io/", "https://xiaojunnanya.github.io/img/1.jpg"],
+        ["Rootlex", "https://blog.nalex.top/", "https://bu.dusays.com/2022/10/21/63527e104561f.png"],
+        ["余欣", "https://shineyull.github.io/", "https://shineyull.github.io/img/shineyu_avatar.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
