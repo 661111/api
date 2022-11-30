@@ -19,6 +19,8 @@ LINK:
      - {link: "https://nn.ci/links", theme: "common1"}
      - {link: "https://noionion.top/link/", theme: "butterfly"}
      - {link: "https://blog.zhheo.com/link", theme: "butterfly"}
+     - {link: "https://262259.xyz/link/", theme: "butterfly"}
+     - {link: "https://wyblog1.github.io/friends/", theme: "common1"}
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -361,6 +363,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
+        ["wy博客", "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "atom.xml"],
     ]
 }
 
