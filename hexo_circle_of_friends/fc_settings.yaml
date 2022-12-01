@@ -354,6 +354,9 @@ SETTINGS_FRIENDS_LINKS: {
         ["鲸落", "https://xiaojunnanya.github.io/", "https://xiaojunnanya.github.io/img/1.jpg"],
         ["Rootlex", "https://blog.nalex.top/", "https://bu.dusays.com/2022/10/21/63527e104561f.png"],
         ["余欣", "https://shineyull.github.io/", "https://shineyull.github.io/img/shineyu_avatar.png"],
+        ["鹿啵包の小窝", "https://pochacco.top/", "https://pochacco.top/img/Avatar.gif"],
+        ["Ethan.Tzy", "https://tzy1997.com/", "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"],
+        ["风记星辰", "https://www.thyuu.com/", "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
