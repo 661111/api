@@ -357,6 +357,13 @@ SETTINGS_FRIENDS_LINKS: {
         ["鹿啵包の小窝", "https://pochacco.top/", "https://pochacco.top/img/Avatar.gif"],
         ["Ethan.Tzy", "https://tzy1997.com/", "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"],
         ["风记星辰", "https://www.thyuu.com/", "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png"],
+        ["一念倾城", "https://wo.aziyuan.cn/", "https://ziyuan-1306619118.cos.ap-nanjing.myqcloud.com/zhigeng/2022/10/%E5%9C%86_%E7%81%AB%E7%AE%AD.png"],
+        ["海拥资源库", "https://code.haiyong.site/", "https://code.haiyong.site/wp-content/uploads/2022/10/logo-removebg-preview.png"],
+        ["御网尚书", "https://code.haiyong.site/", "https://code.haiyong.site/wp-content/uploads/2022/10/logo-removebg-preview.png"],
+        ["さくら荘の白猫", "https://2heng.xin/", "https://2heng.xin/wp-content/static/apple-icon-57x57.png"],
+        ["plum's blog", "https://plumz.me/", "https://plumz.me/rincoloring.png"],
+        ["Sato", "https://blog.fullcomb.top", "https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png"],
+        ["wy博客", "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -366,7 +373,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
-        ["wy博客": "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "atom.xml"],
         ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png", "atom.xml"],
     ]
 }
