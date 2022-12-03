@@ -29,7 +29,7 @@ LINK:
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
+    enable: ture,
     json_api: "",
     list: [
         # 示例1：
@@ -364,6 +364,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["plum's blog", "https://plumz.me/", "https://plumz.me/rincoloring.png"],
         ["Sato", "https://blog.fullcomb.top", "https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png"],
         ["wy博客", "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php"],
+        ["金桔猪", "https://blog.learnonly.xyz", "https://hexo.pighog.repl.co/img/favicon.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
