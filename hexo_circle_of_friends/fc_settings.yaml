@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-     - {link: "https://661111.github.io/friends/", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
+     - {link: "https://661111.github.io/friends/", theme: "common1"}- {link: "https://hongweblog.com/", theme: "common1"}  # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -365,6 +365,14 @@ SETTINGS_FRIENDS_LINKS: {
         ["Sato", "https://blog.fullcomb.top", "https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png"],
         ["wy博客", "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php"],
         ["金桔猪", "https://blog.learnonly.xyz", "https://hexo.pighog.repl.co/img/favicon.png"],
+        ["赵阿卷", "https://blog.zwying.com/", "https://blog.zwying.com/favicon.ico"],
+        ["忆梦小站", "https://www.onyi.net/", "https://i7.onyi.net/os/headportrait.webp"],
+        ["血小板自动机", "https://blog.dalao.icu/", "https://cdn.jsdelivr.net/gh/schrodingercatss/FigureBed@master/img/20220109201351.jpg"],
+        ["R0A1NG", "https://www.roaing.com/", "https://www.roaing.com/fff.jpg"],
+        ["HONG的小站", "https://hongweblog.com/", "https://hongweblog.com/wp-content/uploads/2022/03/00.jpg"],
+        ["程志辉博客", "https://www.qqzmly.com/", "https://www.qqzmly.com/usr/themes/Typecho-GouGe02/img/top-myphoto.jpg"],
+        ["单车少年", "https://www.yanghuaxing.com/", "https://pic.yanghuaxing.com/zb_users/upload/2021/12/202112151639574546262477.svg"],
+        ["萌宇博客", "https://blog.cutewo.com/", "https://q1.qlogo.cn/g?b=qq&nk=58015163&s=100"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
