@@ -379,6 +379,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["蓝陌Blog", "https://www.lanmo.ltd/", "https://www.lanmo.ltd/img/blog_logo.png"],
         ["贼 ㄨ 船", "https://blog.thiefship.com/", "https://thiefship.com/Avatar.png"],
         ["CoderKui", "https://www.coderkui.com/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
+        ["网易博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
