@@ -15,8 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-     - {link: "https://661111.github.io/friends/", theme: "common1"} # 友链页地址1，修改为你的友链页地址
-     - {link: "https://hongweblog.com/friend", theme: "common1"} 
+     - {link: "https://hongweblog.com/friend/", theme: "common1"} # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -375,6 +374,9 @@ SETTINGS_FRIENDS_LINKS: {
         ["单车少年", "https://www.yanghuaxing.com/", "https://pic.yanghuaxing.com/zb_users/upload/2021/12/202112151639574546262477.svg"],
         ["萌宇博客", "https://blog.cutewo.com/", "https://q1.qlogo.cn/g?b=qq&nk=58015163&s=100"],
         ["我在人间凑数的日子", "https://www.xccx.cc/", "https://www.xccx.cc/tp/tx.png"],
+        ["云晓晨博客", "https://www.catchwang.com/", "https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/favicon/android-chrome-192x192.png"],
+        ["Ikmm", "http://zinikmm.asia/", "https://pic.jitudisk.com/public/2022/11/17/fcddb1792dd09.ico"],
+        ["蓝陌Blog", "https://www.lanmo.ltd/", "https://www.lanmo.ltd/img/blog_logo.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
