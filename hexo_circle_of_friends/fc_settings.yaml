@@ -33,6 +33,9 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
+        ["贝贝吧", "https://www.hibbba.com/", "https://hibb.dusays.com/wp-content/themes/hibb/assets/img/logo.png"],
+        ["Blogin", "https://2dogz.cn/", "https://2dogz.cn/accounts/avatar/Macvcarton-avatar.png"],
+        ["梦之国", "https://www.dreamcs6.com", "https://www.dreamcs6.com/upload/20210820/0c5ade683e7c0f984f087860ec711007.png"],
         ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
         ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
         ["思远", "https://lsybk.xyz/", "https://image.lsybk.xyz/2021/09/05/509989fa83b23.png"],
