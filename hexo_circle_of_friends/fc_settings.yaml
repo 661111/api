@@ -34,6 +34,8 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
+        ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
+        ["思远", "https://lsybk.xyz/", "https://image.lsybk.xyz/2021/09/05/509989fa83b23.png"],
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
         ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
         ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200"],
@@ -47,7 +49,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["Akilarの糖果屋", "https://www.kai666666.com/", "https://www.kai666666.com/images/avatar.png"],
         ["conge", "https://conge.github.io/", "https://conge.github.io/favicon.ico?"],
         ["Luminous' Home", "https://luotianyi.vc/", "https://cdn.luotianyi.vc/wp-content/uploads/2020-02-13_09-22-57.jpg"],
-        ["wybk", "https://wyblog1.eu.org/", " "],
         ["Xhofe's Blog", "https://nn.ci/", "https://nn.ci/images/avatar.png"],
         ["gd1214b's blog", "https://www.gd1214b.icu/", "https://www.gd1214b.icu/media/images/custom-headerLogo.ico"],
         ["小冰博客", "https://zfe.space/", "https://zfe.space/images/headimage.png"],
