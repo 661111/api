@@ -34,6 +34,8 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
+        ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
+        ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
         ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200"],
         ["星空", "https://blog.bosong.online/", "https://imagecdn.bosong.online/image/avatar.jpg"],
         ["Saiodgm の 博客儿", "https://oi.saiodgm.gq/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
