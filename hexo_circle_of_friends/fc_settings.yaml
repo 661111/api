@@ -34,6 +34,18 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
+        ["葱苓", "https://itciraos.cn/", "https://itciraos.cn/assets/avatar.webp"],
+        ["陶小桃Blog", "https://www.52txr.cn", "https://s1.ax1x.com/2022/04/16/LYuWVA.png"],
+        ["Cortana", "https://bbc.zendee.cn/", "https://s3.bmp.ovh/imgs/2022/03/8dd4ff82c436b482.png"],
+        ["Nuyoah", "https://262259.xyz/", "https://s1.ax1x.com/2022/11/27/zUFla6.png"],
+        ["极光", "https://zhaowenjie30.github.io/", "https://img-blog.csdnimg.cn/20210313122054101.png"],
+        ["鲸落", "https://xiaojunnanya.github.io/", "https://xiaojunnanya.github.io/img/1.jpg"],
+        ["Rootlex", "https://blog.nalex.top/", "https://bu.dusays.com/2022/10/21/63527e104561f.png"],
+        ["余欣", "https://shineyull.github.io/", "https://shineyull.github.io/img/shineyu_avatar.png"],
+        ["鹿啵包の小窝", "https://pochacco.top/", "https://pochacco.top/img/Avatar.gif"],
+        ["Ethan.Tzy", "https://tzy1997.com/", "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"],
+        ["风记星辰", "https://www.thyuu.com/", "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png"],
+        ["一念倾城", "https://wo.aziyuan.cn/", "https://ziyuan-1306619118.cos.ap-nanjing.myqcloud.com/zhigeng/2022/10/%E5%9C%86_%E7%81%AB%E7%AE%AD.png"],
         ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
         ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
