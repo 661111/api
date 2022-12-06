@@ -429,7 +429,7 @@ BLOCK_SITE: [
 HTTP_PROXY: false
 
 # 过期文章清除（天）
-OUTDATE_CLEAN: 10000
+OUTDATE_CLEAN: 0
 
 # 5.x以后默认为sqlite，同时不建议使用leancloud
 # 存储方式，可选项：leancloud，mysql，sqlite，mongodb；默认为sqlite
