@@ -33,18 +33,12 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["贝贝吧", "https://www.hibbba.com/", "https://hibb.dusays.com/wp-content/themes/hibb/assets/img/logo.png"],
-        ["Blogin", "https://2dogz.cn/", "https://2dogz.cn/accounts/avatar/Macvcarton-avatar.png"],
-        ["梦之国", "https://www.dreamcs6.com", "https://www.dreamcs6.com/upload/20210820/0c5ade683e7c0f984f087860ec711007.png"],
         ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
         ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
-        ["思远", "https://lsybk.xyz/", "https://image.lsybk.xyz/2021/09/05/509989fa83b23.png"],
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
         ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
-        ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200"],
         ["星空", "https://blog.bosong.online/", "https://imagecdn.bosong.online/image/avatar.jpg"],
         ["Saiodgm の 博客儿", "https://oi.saiodgm.gq/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
-        ["dorakika", "https://blog.dorakika.cn/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
         ["Yunfeng's Simple Blog", "https://vra.github.io/", "https://vra.github.io/images/logo.svg"],
         ["MaxBill の博客", "https://www.maxbill.cn/", "https://cdn.maxbill.cn/blog/img/avatar.png"],
         ["GamerNoTitle", "https://bili33.top/", "https://gamernotitle.coding.net/p/assets/d/assets/git/raw/master/AboutMe/logo-mini.png"],
@@ -398,6 +392,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
         ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png", "atom.xml"],
+        ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200", "atom.xml"],
     ]
 }
 
