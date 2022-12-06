@@ -33,6 +33,9 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
+        ["FANTASY博客", " https://blog.tigerxly.com/", "https://img.sunxiaochuan258.com/avatar/tigerxly/avatar-tigerxly-256.jpg"],
+        ["By_xb", "https://wtnl.xyz/", "https://cdn.jsdelivr.net/gh/byxiaobian/CDN/images2/author.webp"],
+        ["瓦解的生活记事", "https://hin.cool/", "https://cdn.hin.cool/pic/my/dl3.png"],
         ["mhuig", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp?v=9e40245bc4"],
         ["葱苓", "https://itciraos.cn/", "https://itciraos.cn/assets/avatar.webp"],
         ["雾非雾的情思", "http://www.mspring.org/", "https://file.mspring.org/images/blog/avatar.jpg"],
