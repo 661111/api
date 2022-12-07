@@ -33,6 +33,8 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
+        ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
+        ["十玖八柒", " https://ahzoo.cn/", "https://ahzoo.cn/img/avatar.jpg"],
         ["FANTASY博客", " https://blog.tigerxly.com/", "https://img.sunxiaochuan258.com/avatar/tigerxly/avatar-tigerxly-256.jpg"],
         ["By_xb", "https://wtnl.xyz/", "https://cdn.jsdelivr.net/gh/byxiaobian/CDN/images2/author.webp"],
         ["瓦解的生活记事", "https://hin.cool/", "https://cdn.hin.cool/pic/my/dl3.png"],
@@ -51,7 +53,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["风记星辰", "https://www.thyuu.com/", "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png"],
         ["一念倾城", "https://wo.aziyuan.cn/", "https://ziyuan-1306619118.cos.ap-nanjing.myqcloud.com/zhigeng/2022/10/%E5%9C%86_%E7%81%AB%E7%AE%AD.png"],
         ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
-        ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://www.coderkui.com/upload/2022/11/blog_avator.png"],
+        ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
         ["星空", "https://blog.bosong.online/", "https://imagecdn.bosong.online/image/avatar.jpg"],
         ["Saiodgm の 博客儿", "https://oi.saiodgm.gq/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
