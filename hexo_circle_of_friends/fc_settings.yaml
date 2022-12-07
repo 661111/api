@@ -33,6 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
+        ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
         ["十玖八柒", " https://ahzoo.cn/", "https://ahzoo.cn/img/avatar.jpg"],
         ["FANTASY博客", " https://blog.tigerxly.com/", "https://img.sunxiaochuan258.com/avatar/tigerxly/avatar-tigerxly-256.jpg"],
