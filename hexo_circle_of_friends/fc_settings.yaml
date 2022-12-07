@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-     - {link: "https://661111.github.io/friends/", theme: "common1"} # 友链页地址1，修改为你的友链页地址
+     - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -34,6 +34,8 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["大锤", "https://dddachui.top", "https://dddachui.top/download/other/wanye.jpg"],
+        ["雨探青鸟", "https://lmzyoyo.top/", "https://imagere.oss-cn-beijing.aliyuncs.com/HaloFiles/%E8%8E%89%E5%85%B9%E4%B8%8E%E9%9D%92%E9%B8%9F.jpg"],
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
         ["十玖八柒", " https://ahzoo.cn/", "https://ahzoo.cn/img/avatar.jpg"],
         ["FANTASY博客", " https://blog.tigerxly.com/", "https://img.sunxiaochuan258.com/avatar/tigerxly/avatar-tigerxly-256.jpg"],
