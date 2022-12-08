@@ -34,13 +34,11 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["拉姆萨伊", "https://ramsayi.github.io/", "https://ramsayi.github.io/assets/img/logo/avatar.jpg"],
+        ["Aohui", "https://aohuiliu.fun", "https://www.aohuiliu.fun/images/avatar.jpeg"],
         ["星空", "https://www.71xk.com/", "https://xkportal.71xk.com/wp-content/uploads/2022/03/890aeff1d1c3393e4c130f337f63547c.png"],
-        ["小贝资源", "http://www.xbliao.cn/", "http://www.xbliao.cn/wp-content/uploads/2022/10/Screenshot_2022_0812_202345%E5%B7%B2%E5%A4%84%E7%90%86.png"],
-        ["小七", "https://www.17only.net/", "https://www.17only.net/wp-content/uploads/2022/04/%E9%80%8F%E6%98%8E%E5%BA%95logo-2-e1649300427673.png"],
         ["小梦博客", "https://blog.wbkeji.cn/", "https://blog.wbkeji.cn/wp-content/uploads/2022/10/cropped-CBA9B20D981177D59EE658469770C443-192x192.png"],
         ["旧云小站", "https://jiuyunw.cn/", "https://img1.jiuyunw.cn/ota/1393756859/s6Qpo2aT.png"],
-        ["云帆沧海", "https://www.2288m.com/", "https://www.2288m.com/myphoto-1.png"],
-        ["大锤", "https://dddachui.top", "https://dddachui.top/download/other/wanye.jpg"],
         ["雨探青鸟", "https://lmzyoyo.top/", "https://imagere.oss-cn-beijing.aliyuncs.com/HaloFiles/%E8%8E%89%E5%85%B9%E4%B8%8E%E9%9D%92%E9%B8%9F.jpg"],
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
         ["十玖八柒", " https://ahzoo.cn/", "https://ahzoo.cn/img/avatar.jpg"],
