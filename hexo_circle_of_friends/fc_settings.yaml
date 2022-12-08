@@ -34,7 +34,9 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["小贝资源", "http://www.xbliao.cn/", "http://www.xbliao.cn/wp-content/uploads/2022/10/Screenshot_2022_0812_202345%E5%B7%B2%E5%A4%84%E7%90%86.png"],
         ["旧云小站", "https://jiuyunw.cn/", "https://img1.jiuyunw.cn/ota/1393756859/s6Qpo2aT.png"],
+        ["云帆沧海", "https://www.2288m.com/", "https://www.2288m.com/myphoto-1.png"],
         ["大锤", "https://dddachui.top", "https://dddachui.top/download/other/wanye.jpg"],
         ["雨探青鸟", "https://lmzyoyo.top/", "https://imagere.oss-cn-beijing.aliyuncs.com/HaloFiles/%E8%8E%89%E5%85%B9%E4%B8%8E%E9%9D%92%E9%B8%9F.jpg"],
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
@@ -47,6 +49,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["雾非雾的情思", "http://www.mspring.org/", "https://file.mspring.org/images/blog/avatar.jpg"],
         ["陶小桃Blog", "https://www.52txr.cn", "https://s1.ax1x.com/2022/04/16/LYuWVA.png"],
         ["Cortana", "https://bbc.zendee.cn/", "https://s3.bmp.ovh/imgs/2022/03/8dd4ff82c436b482.png"],
+        ["龙哥", "https://long.ge/", "https://long.ge/favicon.png"],
         ["Nuyoah", "https://262259.xyz/", "https://s1.ax1x.com/2022/11/27/zUFla6.png"],
         ["极光", "https://zhaowenjie30.github.io/", "https://img-blog.csdnimg.cn/20210313122054101.png"],
         ["鲸落", "https://xiaojunnanya.github.io/", "https://xiaojunnanya.github.io/img/1.jpg"],
