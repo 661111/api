@@ -23,8 +23,8 @@ LINK:
      - {link： “https://www.timochan.cn/friends”， theme： “common1”} # 友链页地址6
      - {link: "https://blog.2broear.com/2bfriends", theme: "common1"} # 友链页地址7
      - {link: "https://innei.ren/friends", theme: "common1"} # 友链页地址8
-     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址9
-     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址10
+#     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址9
+#     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址10
 
 
 # 配置项友链
