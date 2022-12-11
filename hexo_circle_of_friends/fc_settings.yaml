@@ -15,7 +15,10 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-     - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址1，修改为你的友链页地址
+     - {link： “https://effulgent-kringle-368d41.netlify.app/friends/”， theme： “volantis”}  # 友链页地址1，修改为你的友链页地址
+     - {link： “https://hongweblog.com/friend”， theme： “common1”} # 友链页地址2
+     - {link： “https://xinger.vip/links”， theme： “common1”} # 友链页地址3
+     - {link： “https://www.azusemisa.top/friends/”， theme： “butterfly”} # 友链页地址4
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -33,16 +36,193 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
-        ["Ramsayi", "https://elaborate-mermaid-23e1b0.netlify.app/", "https://elaborate-mermaid-23e1b0.netlify.app/assets/img/logo/avatar.jpg"],
+        [“无影博客”， “https://effulgent-kringle-368d41.netlify.app/”， “https://661111.github.io/media/images/custom-headerLogo.ico”]，
+        [“无影博客”， “https://timely-griffin-781b87.netlify.app/”， “https://661111.github.io/media/images/custom-headerLogo.ico”]，
+        [“菜逼博客”， “https://cbbkk.com”， “https://cdn.jsdelivr.net/gh/flurrychan/Sakura/tx.png”]，
+        [“馨沫小姐姐的小窝”， “https://www.moxingirl.cyou/”， “https://www.moxingirl.cyou/wp-content/uploads/2022/04/IMG_336420210405-201318.jpg”]，
+        [“森语博客”， “https://blog.lsenyu.cn/”， “https://lsenyu.cn/logo1.jpg”]，
+        [“不亦乐乎”， “https://lms.im/”， “https://lms.im/wp-content/themes/A2022/assets/images/slider1.webp”]，
+        [“😏长安不良帅'博客”， “https://yogo.ckai.cc/”， “http://q2.qlogo.cn/headimg_dl?dst_uin=2230831502&spec=640”]，
+        [“杰伊出”， “https://tgcsblog.top/”， “http://www.tgcsblog.top/img/myavatar.jpg”]，
+        [“生姜”、“https://xinger.vip/”、“https://xinger.vip/wp-content/uploads/2021/05/f7246b600c3387445cea66cd460fd9f9d72aa050.png”]，
+        [“大雄”， “https://199508.com/”， “https://avatars.githubusercontent.com/u/4301287?s=48&v=4”]，
+        [“冥王星”、“https://blog.xkzs.cc/”、“https://blog.xkzs.cc/upload/2022/07/pluto.png”]，
+        [“优盟盒子”， “https://www.umsbox.com/”， “https://www.umsbox.com/wp-content/uploads/2022/06/123.png”]，
+        [“韭菜猫”， “https://amdyes.cc/”， “https://amdyes.cc/wp-content/uploads/2022/11/222111.png”]，
+        [“KEKC博客”， “https://www.kekc.cn/”， “https://www.kekc.cn/wp-content/uploads/2022/05/cropped-kekc-32x32.jpg”]，
+        [“狐仙阁”， “https://www.huxianbk.cn/”， “https://www.huxianbk.cn/wp-content/uploads/2022/06/logo1.png”]，
+        [“老徐博客”， “https://bigger.ee/”， “https://bigger.ee/usr/themes/amaze/banner/4.gif”]，
+        [“盒子萌”， “https://www.boxmoe.com/”， “https://www.boxmoe.com/wp-content/themes/lolimeow/assets/images/logo.png”]，
+        [“中国科学技术大学茶糜花开”， “https://blog.starysky.top/”， “https://blog.starysky.top/img/favicon.png”]，
+        [“itsNekoDeng”， “https://dyfa.top/”， “https://dyfa.top/medias/avatar.jpg”]，
+        [“品味苏州”， “https://pwsz.com/”， “https://cravatar.cn/avatar/8e5566d153dba1c372c54eae02401d96?s=50&r=g”]，
+        [“清山的小站”， “https://qingshaner.com/”， “https://qingshaner.oss-cn-hangzhou.aliyuncs.com/images/202205021359396.jpg”]，
+        [“墨泽”， “https://blog.imzy.ink/”， “https://blog.imzy.ink/logo.jpg”]，
+        [“CHI博客”， “https://blog.chaunceychi.fun/”， “https://pic.chaunceychi.fun/photo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg”]，
+        [“东方幻梦”， “https://blog.badapple.pro/”， “https://cdn.jsdelivr.net/gh/OrientalFantasy/file/logo/logo-640.jpg”]，
+        [“皮皮凛の小窝”， “owomoe.net”， “https://owomoe.net/logo.webp”]，
+        [“秦大叔”， “https://qfsyj.com/”， “https://qfsyj.com/photo/logo.png”]，
+        [“我的博客”， “https://blog.moeqy.com/”， “https://cdn.jsdelivr.net/gh/MqyGalaxy/MyBlog@latest/images/avatarLOGO.jpg”]，
+        [“麻瓜的博客”， “https://muggledy.top/”， “https://cdn.staticaly.com/gh/celestezj/ImageHosting/master/img/20210202134748.jpg”]，
+        [“老谢博客”， “https://www.xj123.info/”， “https://661111.github.io/media/images/custom-headerLogo.ico”]，
+        [“王叨叨”， “https://wangdaodao.com/”， “https://661111.github.io/media/images/custom-headerLogo.ico”]，
+        [“云小站”， “https://yczheng.top/”， “https://s1.328888.xyz/2022/02/04/yvYI2.png”]，
+        [“李子武”、“https://www.liziwu.net/”、“https://www.liziwu.net/Contents/static/avatar.jpg”]，
+        [“云游君的小站”， “https://www.yunyoujun.cn/”， “https://www.yunyoujun.cn/images/avatar.jpg”]，
+        [“喵二の小博客”， “https://www.miaoer.xyz/”， “https://www.miaoer.xyz/weblogo.png”]，
+        [“网罗灯下黑”， “https://wldxh.com/”， “https://wldxh.com/wp-content/themes/ripro-v2/assets/img/logo.png”]，
+        [“星辰日记”， “https://blog.xsot.cn/”， “https://bu.dusays.com/2022/12/10/639388ba2543c.webp”]，
+        [“小言u博客”， “https://zxz.ee/”， “https://zxz.ee/touxiang.png”]，
+        [“玩机窝”， “https://wanjiwo.cn/”， “https://img.wanjiwo.cn/logo.png”]，
+        [“兰小站”， “https://www.lanol.cn/”， “https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2022/11/8d414a386fd54ec3a78e40d87f1909d5.png”]，
+        [“银河舰队”， “https://iyinhe.cn/”， “https://img.iyinhe.cn/wp-content/uploads/2020/02/1c63ad95e5f8e3.svg”]，
+        [“艾洛利”， “https://www.ailoli.org/”， “https://www.ailoli.org/cross.html”]，
+        [“耳语”、“https://blog.whispery.cn/”、“https://bu.dusays.com/2022/07/25/62ddad6056eda.png”]，
+        [“青灯暮雨”， “https://www.blatr.cn/”， “https://www.blatr.cn/images/adminAvatar.jpg”]，
+        [“叶开博客”， “https://xn--qpru0x.cn/”， “https://xn--qpru0x.cn/tx.png”]，
+        [“长街短梦”， “https://wangyunzi.com/”， “https://blog.wangyunzi.com/article/avatar.jpg”]，
+        [“云云博客”、“https://blog.yfun.top/”、“https://bu.dusays.com/2022/09/11/631d4b4d338c0.png”]，
+        [“杨的博客”， “https://16634.cn/”， “https://16634.cn/img/ico.png”]，
+        [“今夕何夕兮”， “https://www.ginc.site/”， “https://gcore.jsdelivr.net/gh/lyboy-wp/jscdn/img/favicon.ico”]，
+        [“WindBack”， “https://windback.xyz/”， “https://static.windback.xyz/avatar.jpg”]，
+        [“Uyoahz”， “https://uyoahz.cn/”， “https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640”]，
+        ["Eacls", "https://www.eacls.top/", "https://www.eacls.top/img/favicon.png"],
+        ["SeerSu", "https://seersu.me/", "https://seersu.me/favicon/avatar.jpg"],
+        ["七云’s Blog", "https://blog.zets.cn/", "https://q.qlogo.cn/g?b=sdk&k=UeVu6eVo5SdL2Eu7PiczvTw&s=640"],
+        ["DeCheng", "https://cyolc932.github.io/", "https://q1.qlogo.cn/g?b=qq&nk=20852109&s=640"],
+        ["林林杂语", "https://www.xiaozonglin.cn/", "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp&s=80"],
+        ["萌萌の美少女", "https://moe-girl.tk/", "https://moe-girl.tk/logo.png"],
+        ["岁有余生", "https://www.anziblog.cn/", "https://www.anziblog.cn/tx.webp"],
+        ["摸鱼屋", "https://moyu233.top/", "https://pic.moyu233.xyz/i/1/logo.png"],
+        ["西瓜撞地球", "https://bio-w.cn/", "https://bio-w.cn/img/avater.jpg"],
+        ["XC's Blog", "https://www.webxc.ml/", "https://npm.elemecdn.com/webxc@1.0.0/logo/logo.jpg"],
+        ["兼一书虫", "https://hycbook.com/", "https://pic.hycbook.com/i/hexo/person_img"],
+        ["JSPang", "https://jspang.com/", "https://blogimages.jspang.com/blogtouxiang1.jpg"],
+        ["刘童鞋说", "https://blog.itliujia.cn/", ""],
+        ["Felix Chen", "https://blog.felixchen0707.cn/", "https://i.imgtg.com/2022/06/06/n3ORs.jpg"],
+        ["初之图库", "https://img.himiku.com/", "https://gravatar.com/avatar/2fc4cf3560ff5a1cc64ea029896ab235?s=400"],
+        ["初之音", "https://www.himiku.com/", "https://gravatar.com/avatar/2fc4cf3560ff5a1cc64ea029896ab235?s=400"],
+        ["XPoet", "https://xpoet.cn/", "https://cdn.staticaly.com/gh/XPoet/image-hosting@master/common-use/avatar.jpg"],
+        ["远方博客", "https://blog.ltyuanfang.cn/", "https://blog.ltyuanfang.cn/favicon.ico"],
+        ["风记星辰", "https://www.thyuu.com/", "https://std.thyuu.com/logo.png"],
+        ["宇哥博客", "http://www.ygbks.com/", "https://bu.dusays.com/2022/12/03/638a38dc5cd19.png"],
+        ["joojen个人博客", "https://joojen.com/", "https://bu.dusays.com/2022/12/03/638a38dc5ce82.png"],
+        [" BeaCox", "https://blog.beacox.space/", "https://blog.beacox.space/img/avatar.png"],
+        [" 轻淡时光", "https://www.lybblog.cn/", "https://www.lybblog.cn/logo/logoico.jpg"],
+        [" 辛未羊的网络日志", "https://panqiincs.me/", "https://panqiincs.me/images/avatar.jpg"],
+        [" linkkk的小屋", "https://www.linkkk.top/", "https://www.linkkk.top/tx.jpg"],
+        [" DIDCTF-Blog", "https://blog.didctf.com/", "https://bu.dusays.com/2022/09/14/6321ef7292527.jpg"],
+        [" 云帆沧海", "https://yf-ch.com/", "https://yf-ch.com/img/favicon.png"],
+        [" 轻笑Chuckle", "https://www.chuckle.top/", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
+        [" AZPL", "https://www.azplstudio.top/", "https://www.azplstudio.top/zb_users/upload/2022/09/202209191663576062474061.jpg"],
+        [" Felix_Chenの基地", "https://blog.felixchen0707.cn/", "https://i.imgtg.com/2022/06/06/n3ORs.jpg"],
+        [" obaby@mars", "https://h4ck.org.cn/", "https://cravatar.cn/avatar/3a78942c4ddcda86242f20abdacee082?d=mp&s=80"],
+        [" Shixiaocaia", "https://shixiaocaia.fun/", "https://bu.dusays.com/2022/08/09/62f26322f2dda.jpeg"],
+        [" 启涵的博客", "https://www.codeqihan.com/", "https://www.codeqihan.com/images/avatar.png"],
+        [" 免费主机", "https://www.freehost.cc/", "https://cravatar.cn/avatar/28b57baa4e8f13fe4292ccb2de267e30?d=mp&s=80"],
+        [" Rose博客", "https://w2zg.com/", "https://cravatar.cn/avatar/5dbff385854d7717d26a267e1c01fbbc?d=mp&s=80"],
+        [" Ethan.Tzy", "https://tzy1997.com/", "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"],
+        [" Leonus", "https://blog.leonus.cn/", "https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5"],
+        [" 阳光下的小宁宁", "https://www.yuanning0818.tk/","avatar":"https://www.yuanning0818.tk/logo.png"],
+        [" 凡梦星尘空间站", "https://lisenhui.cn/", "https://lisenhui.cn/imgs/avatar.png"],
+        [" Ray’s Blog", "https://raycoder.me/", "https://bu.dusays.com/2022/12/03/638a38dc5c6a6.png"],
+        [" Jared h", "https://jaredh.cn/", "https://z3.ax1x.com/2021/09/06/hfnbLR.png"],
+        [" 陆陆大顺", "https://www.shunnet.top/", "https://www.shunnet.top/accessories/images/shunlia.png"],
+        [" qinxs", "https://7bxing.com/", "https://bu.dusays.com/2022/02/23/d33773a046c64.png"],
+        [" 小巷", "https://lihaha.me/","avatar":"https://bu.dusays.com/2022/02/23/c716d02532d83.png"],
+        ["小简博客", "https://blog.ideaopen.cn/", "https://bu.dusays.com/2022/05/31/6295d1906b264.jpg"],
+        ["沐印小站", "https://c.undf.top/", "https://c.undf.top/icon/android-chrome-144x144.png"],
+        ["今夕何夕兮", "https://www.lyboy.top/", "https://bu.dusays.com/2022/10/03/633a02768220a.png"],
+        ["网友小宋", "https://xyzbz.cn/", "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"],
+        ["fred 随笔", "https://alialili.cn/", "https://bu.dusays.com/2022/07/08/62c7ad29019cb.webp"],
+        ["Cold’blog", "https://www.coldyun.cn/", "https://ucdn.coldyun.cn/handsome/handsome8.00/assets/img/tou.jpg"],
+        ["钧言极客", "https://www.jinjun.top/", "https://www.jinjun.top/img/avatar.jpg"],
+        ["勤奋的思远", "https://lsybk.xyz/", "https://bu.dusays.com/2020/11/10/ab1185891b443.png"],
+        ["LanYunのBlog", "https://lanyundev.com/", "https://lanyundev.com/img/logo.jpg.webp"],
+        ["小李博客", "https://xiaoliblog.cn/", "https://s2.loli.net/2022/08/06/t5YcsIz34OMkglL.jpg"],
+        ["EthanLoo", "https://blog.ethanloo.cn/", "https://cdn.ethanloo.cn/img/avatar.png"],
+        ["roydon", "https://roydon.xyz/", "https://img2.woyaogexing.com/2022/08/17/21431d45e46393db!400x400.jpg"],
+        ["BOY-WDY", "https://boyblog.pages.dev/", "https://gimg2.baidu.com/image_search/src=https%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F12721800729%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f10000,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1667263404&t=731544e41ab0bf4f68c37a63e1e4e41b"],
+        ["king", "https://king-cc.cn/", "https://img.wwery.com/Sugar/IlSbLRSH.jpg"],
+        ["QYstudio", "https://qystu.cc/", "https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b"],
+        ["随风起", "https://blog.bywind.xyz/", "https://cloud-image-host.oss-cn-beijing.aliyuncs.com/wo.jpg"],
+        ["王先森", "https://www.boysec.cn/", "https://images.boysec.cn/medias/avatar.jpg"],
+        ["轻笑Chuckle", "https://www.chuckle.top/", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
+        ["2BROEAR", "https://blog.2broear.com/", "https://img.2broear.com/2broear.png"],
+        ["Gahotx", "https://gahotx.cn/", "https://pub.gahotx.cn/photo/cat.jpg"],
+        ["Hassan's Blog", "https://hassanwong.top/", "https://cdn.jsdelivr.net/npm/hassan-assets/img/avatar_blog.jpg"],
+        ["Eclipse の Blog", "https://blog.marisalnc.com/", "https://i.ibb.co/mbSR69B/QQ-20220618174318.jpg"],
+        ["梦落の小屋", "https://blog.dreamfall.cn/", "https://home.dreamfall.cn/source/img/avatar.jpg"],
+        ["randycout", "https://randycout.com/", "https://img.randycout.com/blogImg/tx15.png"],
+        ["夜法之书的Blog", "https://blog.17lai.site/", "https://blog.17lai.site/favicon.webp"],
+        ["Leonus", "https://blog.leonus.cn/", "https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5"],
+        ["Guo Le's Blog", "https://guole.fun/", "https://guole.fun/img/gl.jpg"],
+        ["Eurkon", "https://blog.eurkon.com/", "https://blog.eurkon.com/images/user/avatar.jpg"],
+        ["limo の博客", "https://mblog.alimo.top/", "https://q1.qlogo.cn/g?b=qq&nk=2328031994&s=640"],
+        ["Ethan.Tzy", "https://tzy1997.com/","avatar":"https://bu.dusays.com/2022/05/02/626f92e193879.jpg"],
+        ["DSRBLOG", "https://blog.dsrkafuu.net/", "https://cdn.jsdelivr.net/npm/@dsrca/cdn@1.1.1/lib/avatar/dsrkafuu_256p.png"],
+        ["Xiaomage's Blog", "https://blog.xmgspace.me/", "https://cdn.sep.cc/avatar/35eb088aa93dab2241020481166d74f9?s=256&d=mm&r=g"],
+        ["大西洋暖流", "http://bigbigben.com/", "https://cdn.jsdelivr.net/npm/imgscdn/img/202111192055113.jpg"],
+        ["轻笑Chuckle", "https://www.chuckle.top/", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
+        ["浅秋枫影的博客", "https://cuojue.org/", "https://cuojue.org/avatar/b81741f1a25b57a016e223fe13f905b4"],
+        ["s0nd9r", "https://blog.hellosec.cn/", "https://blog.hellosec.cn/images/avatar.png"],
+        ["pandaos", "https://panda0s.top/", "https://panda0s.top/img/tx.jpg"],
+        ["lingze", "https://lingze.xyz/", "https://lingze.xyz/img/avatar2.jpg"],
+        ["Longlone", "https://longlone.top/", "https://q4.qlogo.cn/g?b=qq&nk=1162410187&s=140"],
+        ["LameCrow", "https://lamecrow.com/", "https://q4.qlogo.cn/g?b=qq&nk=1749571140&s=140"],
+        ["VanZY", "http://47.103.121.189/", "https://q4.qlogo.cn/g?b=qq&nk=2350721437&s=140"],
+        ["简简", "https://jwt1399.top/", "https://jwt1399.top/favicon.png"],
+        ["无境", "https://www.drflower.top/", "https://blog-1300673521.cos.ap-guangzhou.myqcloud.com/images/avatar.jpg"],
+        ["毒奶博主", "https://limbopro.com/", "https://limbopro.com/usr/uploads/2019/11/1242907945.jpg"],
+        ["公益 v2ray 节点订阅", "https://www.v2rayfree.eu.org/", "https://www.v2rayfree.eu.org/images/avatar.png"],
+        ["开心驿站", "https://www.kxyz.eu.org/", "https://www.kxyz.eu.org/wp-content/uploads/avatar.png"],
+        ["Wittoy's Blog（篱落闲栈)", "https://blog.wittoy.com/", "https://cdn.jsdelivr.net/gh/1rz/static/images/me.webp"],
+        ["CWorld's Blog", "https://blog.cworld.top/", "https://gravatar.loli.net/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"],
+        ["氢化葵", "https://blog.h2aoi.top/", "https://cdn.jsdelivr.net/gh/H2Aoi/tuchuang@master/img/666666.png"],
+        ["Islauso の树洞", "https://www.azusemisa.top/", "https://cdn.jsdelivr.net/gh/xiao-lin52/cdn-assets/images/avatar.webp"],
+        ["Ykuee的博客", "https://www.ykuee.link/", "https://www.ykuee.link/wp-content/uploads/2020/12/logo.png"],
+        ["Sakitami的集装箱", "https://blog.skihome.xyz/", "https://blog.skihome.xyz/uploads/avatar.jpg"],
+        ["iMaeGoo’s Blog", "https://www.imaegoo.com/", "https://www.imaegoo.com/images/avatar.jpg"],
+        ["FelixChen的基地", "https://blog.felixchen0707.cn/", "https://i.imgtg.com/2022/06/06/n3ORs.jpg"],
+        ["qinxs", "https://7bxing.com", "https://cdn.staticaly.com/gh/qinxs/cdn-assets@master/img/avatar.png"],
         ["KIENG", "https://blog.kieng.cn/", "https://blog.kieng.cn/static/logo/web-logo.png"],
-        ["Aohui", "https://aohuiliu.fun", "https://www.aohuiliu.fun/images/avatar.jpeg"],
+        ["廖鑫瑞", "https://2298233831.github.io/", "https://q4.qlogo.cn/g?b=qq&nk=2298233831&s=140"],
+        ["YHellow", "https://ywhkkx.github.io/", "https://q4.qlogo.cn/g?b=qq&nk=2076064543&s=140"],
+        ["lscpyy", "https://lscpyy.github.io/", "https://lscpyy.github.io/images/5.jpg"],
+        ["天下大木头", "http://wjlshare.com/", "https://cdn.jsdelivr.net/gh/LanYunDev/elaina@master/uPic/7iihBf20220128time224404.jpg"],
+        ["夏天", "https://sumsec.me/", "https://avatars.githubusercontent.com/u/47944478?v=4"],
+        ["离别歌(phith0n)", "https://www.leavesongs.com/", "https://www.leavesongs.com/static/cactus/images/logo.png"],
+        ["ConsT27", "https://www.const27.com/", "https://const27blog.oss-cn-beijing.aliyuncs.com/img/avatar.png"],
+        ["matoujin", "https://matoujin.top/", "https://matoujin.top/wp-content/uploads/2021/03/illust_83933189_20200908_133808.png"],
+        ["an5er", "http://www.an5er.xyz/", "https://q4.qlogo.cn/g?b=qq&nk=1318861442&s=140"],
+        ["Fay", "https://0xfay.github.io/", "https://avatars.githubusercontent.com/u/55396154?v=4"],
+        ["sanyic", "https://sanyic.github.io/", "https://avatars.githubusercontent.com/u/90373173?v=4"],
+        ["Myu_", "https://myu-blog.top/", "https://myu-blog.top/favicon.png"],
+        ["zpan", "https://www.zpano.cn/", "https://www.zpano.cn/images/avatar.jpg"],
+        ["Chinfo", "https://www.chinfo.top/", "https://q4.qlogo.cn/g?b=qq&nk=2804762549&s=140"], 
+        ["洛希极限", "https://luoxi.icu/", "https://luoxi.icu/upload/2022/08/QQ图片20210921162845.jpg"],
+        ["不落虚", "https://myblog.buluoxu.club/", "https://gitee.com/in-the-knife/pic_bed/raw/master/2022-11--16/800.jfif"],
+        ["HAOの小破站", "https://haobk.top/", "https://q.qlogo.cn/headimg_dl?dst_uin=914365069&spec=640"],
+        ["三水博客网站", "http://www.sanshui.vip/", "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/7626/img6.jpg"],
+        ["生活倒影", "https://poetize.cn/", "https://s1.ax1x.com/2022/11/10/z9E7X4.jpg"],
+        ["Echo", "https://www.liveout.cn/", "https://yy.liveout.cn/photo/photo2.jpg"],
+        ["随风起の博客", "https://www.bywind.xyz/", "https://cloud-image-host.oss-cn-beijing.aliyuncs.com/wo.jpg"],
+        ["LanYunのBlog", "https://lanyundev.com/", "https://lanyundev.com/img/logo.jpg.webp"],
+        ["Jermyn'blog", "https://jermyn.cn/", "https://img1.imgtp.com/2022/10/17/juHJqiEB.jpg"],
+        ["ichika", "https://ichika.cc/", "https://cdn.ichika.cc/page%2FHeadIcon.jpg"],
+        ["King", "https://king-cc.cn/", "https://cdnjson.com/images/2022/11/09/avatar.th.jpg"],
+        ["小华同学927", "https://blog.xiaohua927.top/", "https://i.imgtg.com/2022/12/01/DM501.jpg"],
+        ["醉喵の小屋", "https://www.zuimiao33.cn/", "https://blog.zuimiao33.cn/content/headshot.JPG"],
+        ["iMaeGoo", "https://www.imaegoo.com/", "https://www.imaegoo.com/images/avatar.jpg"],
+        ["Corrain", "https://www.corrain.top/", "https://www.corrain.top/wp-content/uploads/2022/11/profile.jpg"],
+        ["青衣", "https://www.qingyi1220.cn/", "https://www.qingyi1220.cn/img/Tsingyi.jpg"],
         ["星空", "https://www.71xk.com/", "https://xkportal.71xk.com/wp-content/uploads/2022/03/890aeff1d1c3393e4c130f337f63547c.png"],
         ["小梦博客", "https://blog.wbkeji.cn/", "https://blog.wbkeji.cn/wp-content/uploads/2022/10/cropped-CBA9B20D981177D59EE658469770C443-192x192.png"],
         ["旧云小站", "https://jiuyunw.cn/", "https://img1.jiuyunw.cn/ota/1393756859/s6Qpo2aT.png"],
         ["雨探青鸟", "https://lmzyoyo.top/", "https://imagere.oss-cn-beijing.aliyuncs.com/HaloFiles/%E8%8E%89%E5%85%B9%E4%B8%8E%E9%9D%92%E9%B8%9F.jpg"],
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
         ["十玖八柒", " https://blog.ahzoo.cn/", "https://ahzoo.cn/img/avatar.jpg"],
+        ["volantis主题官方", "https://volantis.js.org/", "https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/favicon/apple-touch-icon.png"],
         ["FANTASY博客", " https://blog.tigerxly.com/", "https://img.sunxiaochuan258.com/avatar/tigerxly/avatar-tigerxly-256.jpg"],
         ["By_xb", "https://wtnl.xyz/", "https://cdn.jsdelivr.net/gh/byxiaobian/CDN/images2/author.webp"],
         ["瓦解的生活记事", "https://hin.cool/", "https://cdn.hin.cool/pic/my/dl3.png"],
@@ -53,7 +233,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Cortana", "https://bbc.zendee.cn/", "https://s3.bmp.ovh/imgs/2022/03/8dd4ff82c436b482.png"],
         ["龙哥", "https://long.ge/", "https://long.ge/favicon.png"],
         ["Nuyoah", "https://262259.xyz/", "https://s1.ax1x.com/2022/11/27/zUFla6.png"],
-        ["极光", "https://zhaowenjie30.github.io/", "https://img-blog.csdnimg.cn/20210313122054101.png"],
+        ["极光", "https://elaborate-mermaid-23e1b0.netlify.app/", "https://img-blog.csdnimg.cn/20210313122054101.png"],
         ["鲸落", "https://xiaojunnanya.github.io/", "https://xiaojunnanya.github.io/img/1.jpg"],
         ["Rootlex", "https://blog.nalex.top/", "https://bu.dusays.com/2022/10/21/63527e104561f.png"],
         ["余欣", "https://shineyull.github.io/", "https://shineyull.github.io/img/shineyu_avatar.png"],
@@ -62,7 +242,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["风记星辰", "https://www.thyuu.com/", "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png"],
         ["一念倾城", "https://wo.aziyuan.cn/", "https://ziyuan-1306619118.cos.ap-nanjing.myqcloud.com/zhigeng/2022/10/%E5%9C%86_%E7%81%AB%E7%AE%AD.png"],
         ["科研软件小站", "https://www.sciencesoft.cn/", "https://www.sciencesoft.cn/wp-content/uploads/2019/06/logo-main-1.png"],
-        ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["澄沨", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/personal.ico"],
         ["星空", "https://blog.bosong.online/", "https://imagecdn.bosong.online/image/avatar.jpg"],
         ["Saiodgm の 博客儿", "https://oi.saiodgm.gq/", "https://img.cdn.nesxc.com/2022/03/1647358231690-20220315233030.webp"],
@@ -119,7 +298,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["杜老师说", "https://dusays.com/", "https://cdn.dusays.com/avatar.png"],
         ["Autjuly", "https://kitel.top/", "https://cdn.kitel.top/img/202211040935099.jpg"],
         ["心流", "https://blog.panghai.top/", "https://blog.panghai.top/img/avatar.png"],
-        ["Xlenco", "https://xlenco.github.io/", "https://xlenco.eu.org/img/head.webp"],
+        ["Xlenco", "https://boisterous-sawine-50f3b1.netlify.app/", "https://xlenco.eu.org/img/head.webp"],
         ["Heyiki’Bolg", "https://heyiki.top", "https://img.cdn.nesxc.com/2022/02/202202052142686webp"],
         ["iMaeGoo’s Blog", "https://imaegoo.com", "https://img.cdn.nesxc.com/2022/02/202202052052603.png"],
         ["Internet Bug's blog", "https://myhosts.site", "https://img.cdn.nesxc.com/2022/02/202202141030024webp"],
@@ -145,7 +324,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mua~", "https://mua.ooo/", "https://mua.ooo/Mua.OoO.jpg"],
         ["Autjuly", "https://kitel.top/", "https://cdn.kitel.top/img/202211040935099.jpg"],
         ["心流", "https://blog.panghai.top/", "https://blog.panghai.top/img/avatar.png"],
-        ["Xlenco", "https://celadon-brigadeiros-2ee318.netlify.app/", "https://xlenco.eu.org/img/head.webp"],
         ["点儿博客", "https://dianr.cn/", "http://dianr.cn/img/Y.png"],
         ["胡家小子", "https://www.boyhu.cn/", "https://p.boyhu.cn/assets/img/up.jpg"],
         ["南轩･日记", "https://blog.nanxzy.cn/", "https://cat.dorcandy.cn/usr/themes/MyDiary/api/favicon/get.php?url=https://blog.nanxzy.cn/"],
@@ -184,7 +362,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["路羽博客", "https://www.luyuz.cn/", "https://www.luyuz.cn/content/templates/luyu_fee/static/img/logo.png"],
         ["DoraKika", "https://blog.dorakika.cn/", "https://img.dorakika.cn/avatar/dorakika.cn.webp"],
         ["Butterfly", "https://butterfly.js.org/", "https://img.dorakika.cn/avatar/butterfly.js.org.webp"],
-        ["无影博客", "https://661111.github.io/", "https://wyblog1.eu.org/media/images/custom-headerLogo.ico"],
         ["汀彵汐", "https://blog.izznan.cn/", "https://q2.qlogo.cn/headimg_dl?dst_uin=2461306899&spec=100"],
         ["未央童话镇", "https://forever97.top/", "https://forever97-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/avatar.png"],
         ["cizixs", "https://cizixs.com/", "https://cdn.jsdelivr.net/npm/imgscdn/img/202111192055113.jpg"],
@@ -381,7 +558,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["さくら荘の白猫", "https://2heng.xin/", "https://2heng.xin/wp-content/static/apple-icon-57x57.png"],
         ["plum's blog", "https://plumz.me/", "https://plumz.me/rincoloring.png"],
         ["Sato", "https://blog.fullcomb.top", "https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png"],
-        ["wy博客", "https://wyblog1.github.io/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php"],
         ["金桔猪", "https://blog.learnonly.xyz", "https://hexo.pighog.repl.co/img/favicon.png"],
         ["赵阿卷", "https://blog.zwying.com/", "https://blog.zwying.com/favicon.ico"],
         ["忆梦小站", "https://www.onyi.net/", "https://i7.onyi.net/os/headportrait.webp"],
