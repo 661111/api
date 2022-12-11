@@ -19,8 +19,10 @@ LINK:
      - {link: "https://www.huxianbk.cn/links/", theme: "common1"} # 友链页地址2
      - {link: "https://hongweblog.com/friend", theme: "common1"} # 友链页地址3
      - {link: "https://www.azusemisa.top/friends/", theme: "butterfly"} # 友链页地址4
-#    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址5
-     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址6
+     - {link: "https://blog.2broear.com/2bfriends", theme: "common1"} # 友链页地址5
+     - {link: "https://innei.ren/friends", theme: "common1"} # 友链页地址6
+#    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址7
+     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址8
 
 
 # 配置项友链
