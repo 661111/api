@@ -21,7 +21,7 @@ LINK:
      - {link: "https://www.azusemisa.top/friends/", theme: "butterfly"} # 友链页地址4
      - {link: "https://innei.ren/friends", theme: "common1"} # 友链页地址5
      - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址6
-#     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址7
+     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址7
 
 
 # 配置项友链
