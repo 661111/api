@@ -16,12 +16,9 @@
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
      - {link: "https://blog.zhheo.com/link/", theme: "butterfly"} # 友链页地址1，修改为你的友链页地址
-     - {link: "https://hongweblog.com/friend", theme: "common1"} # 友链页地址2
-     - {link: "https://www.huxianbk.cn/links/", theme: "common1"} # 友链页地址3
-     - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址4
-     - {link: "https://www.azusemisa.top/friends/", theme: "butterfly"} # 友链页地址5
-     - {link: "https://blog.2broear.com/2bfriends", theme: "common1"} # 友链页地址6
-     - {link: "https://beixibaobao.com/", theme: "common1"} # 友链页地址7     
+     - {link: "https://www.chuckle.top/link/", theme: "butterfly"} # 友链页地址2，修改为你的友链页地址
+     - {link: "https://hongweblog.com/friend", theme: "common1"} # 友链页地址3
+     - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址4   
 #     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址8
 #     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址9
      
@@ -40,6 +37,7 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["无影博客", "https://timely-griffin-781b87.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["轻笑Chuckle", "https://www.chuckle.top/", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
         ["一蓑烟雨的博客", "https://easyf12.top/", "https://img.easyf12.top/images/2022/10/15/634a8b4186889.webp"],
         ["linkkk", "https://www.linkkk.top/", "https://www.linkkk.top/tx.jpg"],
         ["CS奇妙", "https://blog.loveoi.net/", "https://img.oier.xin/img/%E5%A4%B4%E5%83%8F-jpg.jpg"],
