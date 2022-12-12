@@ -20,10 +20,10 @@ LINK:
      - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址3
      - {link: "https://www.azusemisa.top/friends/", theme: "butterfly"} # 友链页地址4
      - {link: "https://blog.2broear.com/2bfriends", theme: "common1"} # 友链页地址5
-     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址6
-     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址7
-     - {link: "https://beixibaobao.com/", theme: "common1"} # 友链页地址5     
-
+     - {link: "https://beixibaobao.com/", theme: "common1"} # 友链页地址6     
+#     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址7
+#     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址8
+     
 # 配置项友链
 # enable：# 是否启用配置项友链 true/false（针对还未适配主题或者有定制需求的用户）
 # json_api：通过json格式配置友链，详见：https://fcircle-doc.js.cool/#/developmentdoc?id=配置项json友链
