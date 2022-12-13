@@ -618,6 +618,12 @@ SETTINGS_FRIENDS_LINKS: {
         ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
         ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png", "atom.xml"],
         ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200", "atom.xml"],
+        ["公爵书房 | 技术分享", "https://blog.gjcloak.top/", "https://q1.qlogo.cn/g?b=qq&nk=763771418&s=640", "atom.xml"],
+        ["星空下的YZY", "https://226yzy.com","https://226yzy.com/medias/avatar.jpg", "atom.xml"],
+        ["Guo Le's Blog", "https://guole.fun/","https://guole.fun/img/gl.jpg", "atom.xml"],
+        ["韩小韩博客", "https://www.vvhan.com/","http://blog.bri6.cn/usr/uploads/logo/favicon.ico", "/feed/"],
+        ["易航博客", "http://blog.bri6.cn","http://blog.bri6.cn/usr/uploads/logo/favicon.ico", "/feed/"],
+        ["沙漠渔溏", "https://www.sammery.com","https://www.sammery.com/favicon.ico", "/feed/"],
     ]
 }
 
