@@ -37,6 +37,12 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["无影博客", "https://timely-griffin-781b87.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["W4J1e's blog", "https://www.hin.cool", "https://gitee.com/W4j1e/pic/raw/master/img/dl2.png",], 
+        ["三白的博客", "https://hp-l.gitee.io/", "https://hp-l.gitee.io/img/%E5%8D%A1%E9%80%9A%E5%A4%B4%E5%83%8F.jpg"],
+        ["乔越博客", "https://www.79bk.cn/", "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg"],
+        ["qinxs", "https://7bxing.com", "https://cdn.jsdelivr.net/gh/qinxs/cdn-assets/img/avatar.png"],
+        ["Heson", "https://www.heson10.com", "https://cdn.jsdelivr.net/gh/heson525/pic@master/pic/avatar03.png"],
+        ["Xu’s Blog", "https://hasaik.com", "https://hasaik.com/images/avatar.jpg"],
         ["Dxoca's blog", "https://dxoca.cn/", "https://dxoca.cn/image/headPortrait.jpg"],
         ["查理的自留地", "https://www.vachiko.com/", "https://www.vachiko.com/upload/medium.jpg"],
         ["gahotx", "https://blog.gahotx.cn/", "https://blog.gahotx.cn/usr/themes/sinner/images/logo.png"],
