@@ -37,6 +37,12 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["无影博客", "https://timely-griffin-781b87.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["Heson", "https://www.heson10.com", "https://cdn.jsdelivr.net/gh/heson525/pic@master/pic/avatar03.png"],
+        ["梦独吟", "https://www.datealive.top", "https://7.dusays.com/2021/03/03/bb7ccdde88b03.jpg"],
+        ["Flexiston", "https://flexiston.com", "https://rmt.dogedoge.com/fetch/Flexiston/storage/avatar-min.jpg?fmt=webp"],
+        ["BooLo", "https://www.boolo.top", "https://cdn.jsdelivr.net/gh/BooLo/cdn-assets/avatar/avatar.jpg"],
+        ["qinxs", "https://7bxing.com/", "https://cdn.jsdelivr.net/gh/qinxs/cdn-assets/img/avatar.png"], 
+        ["Hcode", "https://www.hcode.top/", "https://cdn.jsdelivr.net/gh/HimitZH/CDN/images/HCODE.png"],
         ["幼稚园园长", "https://yzyyz.top/", "https://sm.ms/image/I7F1kSnmy9ZKxHQ"], 
         ["WATER", "https://hp-l.github.io/", "https://hp-l.github.io/img/%E5%8D%A1%E9%80%9A%E5%A4%B4%E5%83%8F.jpg"], 
         ["Emil’s blog", "https://blog.hvnobug.com/", "https://cdn.jsdelivr.net/gh/hvnobug/assets/common/avatar.png"],
