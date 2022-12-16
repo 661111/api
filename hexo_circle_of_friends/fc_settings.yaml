@@ -37,6 +37,10 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["无影博客", "https://effulgent-kringle-368d41.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["无影博客", "https://timely-griffin-781b87.netlify.app/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["风祈的时光录", "https://imlql.cn/", "https://cdn.jsdelivr.net/gh/youthlql/lql_img/blog/avatar.jpg"],
+        ["CC's Zone", "https://ccs.zone", "https://show.ccs.zone/style/title.jpg"],
+        ["Shiro.", "https://snow.js.org/", "https://snow.js.org/img/logo.svg"],
+        ["花猪", "https://cnhuazhu.top/butterfly", "https://gcore.jsdelivr.net/gh/CNhuazhu/Image/avatar.jpg"],
         ["優萌初華", "https://shoka.lostyu.me/", "https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg"],
         ["李十三", "https://lishisan.top/", "https://lishisan.top/img/avatar.png"],
         ["爱编程的小明", "https://blog.kobal.cn/", "https://gcore.jsdelivr.net/gh/kebuAAA/Picloud@main/img/avatar.webp"],
