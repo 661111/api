@@ -73,7 +73,7 @@ GITHUB_FRIENDS_LINKS: {
 BLOCK_SITE: [
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.pw.co,  # 含有.com的全部屏蔽
-#    ^http://,  # http开头的全部屏蔽
+#    ^,  # http开头的全部屏蔽
 ]
 
 
