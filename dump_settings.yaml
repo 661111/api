@@ -1,0 +1,67 @@
+BLOCK_SITE:
+- https://www.hibbba.com/
+- https://windback.xyz/
+- https://202271.xyz/
+DATABASE: mongodb
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://wyblog1.tk/friends/
+  theme: volantis
+OUTDATE_CLEAN: 3600
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - "\u5C0F\u7B80\u535A\u5BA2"
+    - https://blog.ideaopen.cn/
+    - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
+    - index.php/feed/
+  - - "\u6C90\u5370\u5C0F\u7AD9"
+    - https://c.undf.top/
+    - https://c.undf.top/icon/android-chrome-144x144.png
+    - atom.xml
+  - - "\u4ECA\u5915\u4F55\u5915\u516E"
+    - https://www.lyboy.top/
+    - https://bu.dusays.com/2022/10/03/633a02768220a.png
+    - feed
+  - - "\u4E91\u6653\u6668\u535A\u5BA2"
+    - https://www.catchwang.com/
+    - https://bu.dusays.com/2021/12/27/4bed0ff62a1fd.png
+    - feed
+  - - "\u7F51\u53CB\u5C0F\u5B8B"
+    - https://xyzbz.cn/
+    - https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png
+    - feed/
+  - - Hello Lin
+    - https://www.hellolin.cn/
+    - https://bu.dusays.com/2022/08/02/62e8d85fa20f5.png
+    - feed/
+  - - "fred \u968F\u7B14"
+    - https://alialili.cn/
+    - https://bu.dusays.com/2022/07/08/62c7ad29019cb.webp
+    - rss
+  - - "Cold\u2019blog"
+    - https://www.coldyun.cn/
+    - https://ucdn.coldyun.cn/handsome/handsome8.00/assets/img/tou.jpg
+    - feed/
+  - - "\u94A7\u8A00\u6781\u5BA2"
+    - https://www.jinjun.top/
+    - https://www.jinjun.top/img/avatar.jpg
+    - feed
+  - - "\u52E4\u594B\u7684\u601D\u8FDC"
+    - https://lsybk.xyz/
+    - https://bu.dusays.com/2020/11/10/ab1185891b443.png
+    - feed.php
