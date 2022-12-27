@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-      - {link: "https://effulgent-kringle-368d41.netlify.app/friends/", theme: "volantis"} # 友链页地址1，修改为你的友链页地址
+      - {link: "https://wyblog.tk/friends/", theme: "volantis"} # 友链页地址1，修改为你的友链页地址
 #     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址8
 #     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址9
      
@@ -32,7 +32,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["无影博客", "https:wyblog.eu.org", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        ["无影博客", "https://wyblog1.tk", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         ["易航博客", "http://blog.bri6.cn","http://blog.bri6.cn/usr/uploads/logo/favicon.ico"],
         ["沙漠渔溏", "https://www.sammery.com","https://www.sammery.com/favicon.ico"],
         ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png"],
