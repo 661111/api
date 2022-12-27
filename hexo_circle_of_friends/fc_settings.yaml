@@ -43,7 +43,6 @@ SETTINGS_FRIENDS_LINKS: {
         ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],  
         ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
         ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
-        ["公爵书房 | 技术分享", "https://blog.gjcloak.top/", "https://q1.qlogo.cn/g?b=qq&nk=763771418&s=640", "atom.xml"],
         ["星空下的YZY", "https://226yzy.com","https://226yzy.com/medias/avatar.jpg", "atom.xml"],
         ["Guo Le's Blog", "https://guole.fun/","https://guole.fun/img/gl.jpg", "atom.xml"],
     ]
