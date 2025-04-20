@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-#      - {link: "https://blog.wyblog1.tk/friends/", theme: "volantis"} # 友链页地址1，修改为你的友链页地址
+      - {link: "https://www.myxz.top/link/", theme: "butterfly"} # 友链页地址1，修改为你的友链页地址
 #     - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址8
 #     - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址9
      
@@ -31,20 +31,20 @@ SETTINGS_FRIENDS_LINKS: {
     enable: ture,
     json_api: "",
     list: [
-        # 示例1：
-        ["安凝雪科技", "https://www.anxkj.fun/link/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
-        ["沙漠渔溏", "https://www.sammery.com","https://www.sammery.com/favicon.ico"],
-        ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png"],
-        ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200"],
-        # 示例2：使用suffix的配置如下
-        # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
-        # 如果目标地址的后缀不在其中，就可以在这里添加
-        # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],  
-        ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
-        ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
-        ["星空下的YZY", "https://226yzy.com","https://226yzy.com/medias/avatar.jpg", "atom.xml"],
-        ["Guo Le's Blog", "https://guole.fun/","https://guole.fun/img/gl.jpg", "atom.xml"],
+        # # 示例1：
+        # ["安凝雪科技", "https://www.anxkj.fun/link/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
+        # ["沙漠渔溏", "https://www.sammery.com","https://www.sammery.com/favicon.ico"],
+        # ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png"],
+        # ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200"],
+        # # 示例2：使用suffix的配置如下
+        # # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
+        # # 如果目标地址的后缀不在其中，就可以在这里添加
+        # # 比如 https://elizen.me/hello.xml ，填写：
+        # ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],  
+        # ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
+        # ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
+        # ["星空下的YZY", "https://226yzy.com","https://226yzy.com/medias/avatar.jpg", "atom.xml"],
+        # ["Guo Le's Blog", "https://guole.fun/","https://guole.fun/img/gl.jpg", "atom.xml"],
     ]
 }
 
@@ -85,7 +85,7 @@ OUTDATE_CLEAN: 10000
 
 # 5.x以后默认为sqlite，同时不建议使用leancloud
 # 存储方式，可选项：leancloud，mysql，sqlite，mongodb；默认为sqlite
-DATABASE: "mongodb"
+DATABASE: "sqlite"
 
 # 部署方式，可选项：github，server，docker；默认为github
 DEPLOY_TYPE: "github"
