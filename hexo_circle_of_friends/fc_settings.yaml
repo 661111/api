@@ -29,7 +29,7 @@ LINK:
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: true,
-    json_api: "https://www.myxz.top/flink_count.json",
+    json_api: "https://www.myxz.top/moments.json",
     list: [
         # # 示例1：
         # ["安凝雪科技", "https://www.anxkj.fun/link/", "https://661111.github.io/media/images/custom-headerLogo.ico"],
